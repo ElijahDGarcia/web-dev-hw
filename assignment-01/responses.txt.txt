@@ -1,0 +1,26 @@
+#How is the web different than the internet?
+The Web is how information connects, the internet is how people (or servers)
+connect. The internet is the physical connection of all the servers and devices
+communicating with one another. The web is a person-friendly interpretation
+of the information held within connected in a way that makes it easier to find
+related information elsewhere.
+Briefly describe how the internet works. ("Magic.")
+The internet is a 'cable', which connects servers to one another. These servers
+connect to other servers, which connect to various devices and routers along the
+way. Essentially, the internet works by allowing every device to communicate
+with every other device that's connected to the larger network, in a way that
+ignores hardware and software differences (like Macs and Windows and Linux
+operating systems) in a uniform way. Utilizing packets of information, it allows
+computer to exchange data.
+What is a directory, and what is its relationship to files?
+A directory is a 'tree' of files and folders. A directory organizes files however
+a human wishes them to be organized, and SHOULD be used in such a way that it's
+easier for other humans to travel down the directory to find what they need.
+They are also used by computers to store files and folders in a descending order,
+So that a parent file can easily find and manipulate a child file.
+Why is using a VCS beneficial?
+It can help you undo changes, find bugs, and document what was done much more easily
+by taking 'snapshots' of versions of your projects at various times.
+State at least one thing you found interesting this topic, or that you didn't know before.
+I didn't know how packets are used to keep information going where it needs to go.
+I've heard the term before, but that's about it.

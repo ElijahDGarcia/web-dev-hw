@@ -1,0 +1,14 @@
+Briefly describe one way how data travels on the internet.
+It travels through electricity, light, or even radio waves. Old Dial-Up, Fiber-
+Optics, and WiFi.
+What is the relationship between an IP address and the DNS?
+Every computer has a unique IP address. A DNS gives those IP addresses readable
+names for human eyes. It's hard to remember an IP address when you want to visit
+a site.
+What is a cookie?
+An ID number for your browser and the website that helps your browser remember
+things like saved passwords, often-visited websites, clicked links, etc.
+List the the three basic parts of a URL.
+The protocol (HTTPS as an example)
+The Domain (www.com)
+The path (./images/cutecat.png)

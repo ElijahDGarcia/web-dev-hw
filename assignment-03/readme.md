@@ -10,4 +10,4 @@ A Markup language is one that interprets text in an easy way that's read by a
 person on a computer. HTML is an example.
 
 
-![imagelink](assignment-03/images/assignment3image.png)
+![imagelink](/images/assignment3image.png)

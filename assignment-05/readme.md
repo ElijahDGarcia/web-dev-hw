@@ -4,7 +4,7 @@ Each document can only have one <head> and one <body> element. The head element 
 
 Structural markup is the physical makeup of the site, in terms of where things are positioned and in what order. Semantic changes how things are displayed.
 
-#F ree Response: Summarize your work cycle for this assignment.
+# Free Response: Summarize your work cycle for this assignment.
 Considering I can't cook stuff on-campus, I had to take a recipe and picture from a book I got from Blizzcon.
 It's a drink-mixing book, but it's the best I had. I put all the text in the editor first, and then put all the markings around it first.
 For example, I typed out all the lists and the definitions first, then went in after and applied all the elements and attributes, etc.

@@ -5,4 +5,4 @@ No music, no ads, nothing like that, it reminded me of Facebook. Now the website
 It's an easy way to upload work and see it online, I'm glad github implemented their  .io live sites so I don't have to keep opening HTML files on local servers.
 
 #Include your screenshot as an image link.
-![MyScreenshot](assignment-04/images/screenshotofgithub.png)
+![MyScreenshot](/assignment-04/images/screenshotofgithub.png)

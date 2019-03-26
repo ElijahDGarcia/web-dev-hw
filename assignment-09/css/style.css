@@ -1,0 +1,40 @@
+body {
+  background-image: url(../images/backgroundgrid.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+/* Background image will stretch to fit window here */
+
+}
+
+.heart-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  filter:opacity(50%);
+}
+
+.main-container {
+
+  font-family:"Lucida Console", Monaco, monospace;
+  position:static;
+  border-style:solid;
+  border-width:5px;
+  border-color:#48FF78;
+  background-color:black;
+  text-align:center;
+  color:#48FF78;
+
+}
+
+.big-title {
+  color:white;
+}
+
+.lesser-title {
+  padding:0;
+  border-style:solid;
+  border-width:3px;
+  border-color:white;
+}

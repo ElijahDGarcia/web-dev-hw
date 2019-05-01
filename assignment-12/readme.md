@@ -2,7 +2,7 @@
 
 My company's name is BurgerBoys and we offer BurgerBlogs. Our brand colors are Black and Yellow and two words to describe the theme of the website are simple and modern."
 
- What is the difference between display: block, display: inline, and display: inline-block?
+# What is the difference between display: block, display: inline, and display: inline-block?
 
 Display: block puts everything in a normal blocks descending
 display:inline ignores usual descending html rules and puts things next to each other

@@ -1,0 +1,97 @@
+body {
+  background-color:black;
+}
+
+header {
+   position: sticky;
+    background-color: #26272b;
+    font-family: Georgia;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: center;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 0.5em 0;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: yellow;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: #1CCDCA;
+}
+
+.content {
+  width: 25%;
+  height: 40%;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  color: yellow;
+  background-color: #26272b;
+  margin: 5px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 20px;
+  border: auto;
+
+
+}
+
+.form {
+  display:inline-block;
+  color:yellow;
+  background-color: #26272b;
+}
+.choice {
+  display:inline-table;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  margin:auto;
+  display: block;
+  position:absolute;
+  top:25%;
+  left:40%;
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: yellow;
+    background-color: #26272b;
